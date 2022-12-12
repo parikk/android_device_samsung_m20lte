@@ -1,5 +1,7 @@
 DEVICE_PATH := device/samsung/m20lte
 
+ALLOW_MISSING_DEPENDENCIES=true
+
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_m20lte
 
