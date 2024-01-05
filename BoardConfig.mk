@@ -1,5 +1,7 @@
 DEVICE_PATH := device/samsung/m20lte
 
+ALLOW_MISSING_DEPENDENCIES=true
+
 # Camera
 BOARD_HWJPEG_ANDROID_VERSION := 10
 
